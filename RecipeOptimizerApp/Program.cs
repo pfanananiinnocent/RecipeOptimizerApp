@@ -91,5 +91,5 @@ var result = optimizer.Optimize(ingredients, recipes);
 
 foreach (var (recipe, times) in result)
 {
-    Console.WriteLine($"Make {recipe.Name} x{times} (Total people to feed: {recipe.Servings * times})");
+    Console.WriteLine($"Make {recipe.Name} x{times} , Total people to feed: {recipe.Servings * times}");
 }
