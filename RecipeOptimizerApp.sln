@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecipeOptimizerApp", "RecipeOptimizerApp\RecipeOptimizerApp.csproj", "{4652FEA2-8920-4E06-BA6F-5DC6845C7FDF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecipeOptimizerApp.Tests", "RecipeOptimizerApp.Tests\RecipeOptimizerApp.Tests.csproj", "{0ADC4C2A-1E0D-41D3-BFDE-EAD086885D67}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4652FEA2-8920-4E06-BA6F-5DC6845C7FDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4652FEA2-8920-4E06-BA6F-5DC6845C7FDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4652FEA2-8920-4E06-BA6F-5DC6845C7FDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4652FEA2-8920-4E06-BA6F-5DC6845C7FDF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0ADC4C2A-1E0D-41D3-BFDE-EAD086885D67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0ADC4C2A-1E0D-41D3-BFDE-EAD086885D67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0ADC4C2A-1E0D-41D3-BFDE-EAD086885D67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0ADC4C2A-1E0D-41D3-BFDE-EAD086885D67}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
