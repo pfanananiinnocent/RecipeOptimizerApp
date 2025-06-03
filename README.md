@@ -27,7 +27,7 @@ RecipeOptimizerApp.Tests/ # xUnit tests
 ### Running unit test 
 - dotnet test
 ### Sample output
-Make Pizza x2 (Total people to feed: 8)
-Make Pasta x1 (Total people to feed: 2)
-Make Pie x1 (Total people to feed: 1)
+- Make Pizza x2 (Total people to feed: 8)
+- Make Pasta x1 (Total people to feed: 2)
+- Make Pie x1 (Total people to feed: 1)
 
