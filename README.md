@@ -4,7 +4,7 @@
 - .Net 9
 - C#
 - xUnit for unit testing
-- Follows **SOLID principles** and clean architecture
+- Follows SOLID principles and clean architecture
   
 ## Folder/Project Structure
 RecipeOptimizerApp
